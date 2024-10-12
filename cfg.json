@@ -1,15 +1,15 @@
 {
   "telegram": {
 
-    "admins": [123],
+    "admins": [7242753233],
 
     "bot": {
-      "api_token": "abc"
+      "api_token": "7555455076:AAGLJrC5--yHjep4z2COSMblE-90yfTSx_U"
     },
 
     "chat": {
       "example": {
-        "link": "https://t.me/example",
+        "link": "https://t.me/CryptoTrade_Alerts",
         "id": -1
       }
     },
